@@ -1,0 +1,13 @@
+node_modules/
+.env
+.DS_Store
+*.log
+server/data/
+client/.next/
+client/out/
+client/node_modules/
+dist/
+build/
+
+
+.fake
